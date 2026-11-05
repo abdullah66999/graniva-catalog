@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "catalog_version": "2026-11-05.2",
+  "generated_at": "2026-11-05T00:52:22+00:00",
+  "min_supported_app_version": 4,
+  "index_path": "stories/index-23f66d368aa4418f398daf49ce841f49f9bbbafa2deb73e379af60ad950ed616.json",
+  "checksum_sha256": "23f66d368aa4418f398daf49ce841f49f9bbbafa2deb73e379af60ad950ed616",
+  "item_count": 2,
+  "withdrawn_story_ids": []
+}
