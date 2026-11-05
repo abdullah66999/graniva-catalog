@@ -1,0 +1,137 @@
+{
+  "schema_version": 1,
+  "id": "auto-8a3d726d8aa1305666",
+  "revision": 1,
+  "title": "Как пятна помогают маскировке стеклянных лягушек",
+  "topic": "nature",
+  "slides": [
+    {
+      "id": "slide-1",
+      "title": "Не совсем прозрачные",
+      "body": "У стеклянных лягушек полупрозрачна кожа живота, но внутренние органы и узоры на спине остаются непрозрачными. Поэтому их точнее называть полупрозрачными, а не полностью прозрачными.",
+      "source_url": "https://europepmc.org/article/MED/42974639",
+      "layout_id": "editorial_brain_asymmetric",
+      "content_blocks": [
+        {
+          "block_type": "hero_image",
+          "media_ids": [
+            "2338bf9c5643f8ace44e6351"
+          ]
+        },
+        {
+          "block_type": "image_pair",
+          "media_ids": [
+            "4c42500845ca6f213aa50b30",
+            "c4752a4b97db561200f5d4dc"
+          ]
+        },
+        {
+          "block_type": "heading",
+          "text": "Не совсем прозрачные"
+        },
+        {
+          "block_type": "body",
+          "text": "У стеклянных лягушек полупрозрачна кожа живота, но внутренние органы и узоры на спине остаются непрозрачными. Поэтому их точнее называть полупрозрачными, а не полностью прозрачными."
+        }
+      ]
+    },
+    {
+      "id": "slide-2",
+      "title": "Опыт на моделях",
+      "body": "В полевом опыте учёные выставили желатиновые модели лягушек с разной прозрачностью и узорами и фиксировали нападения диких птиц. В эксперименте использовали именно модели.",
+      "source_url": "https://europepmc.org/article/MED/42974639",
+      "layout_id": "editorial_text",
+      "content_blocks": [
+        {
+          "block_type": "heading",
+          "text": "Опыт на моделях"
+        },
+        {
+          "block_type": "body",
+          "text": "В полевом опыте учёные выставили желатиновые модели лягушек с разной прозрачностью и узорами и фиксировали нападения диких птиц. В эксперименте использовали именно модели."
+        }
+      ]
+    },
+    {
+      "id": "slide-3",
+      "title": "Пятна снизили риск",
+      "body": "Модели с непрозрачными пятнами на спине подвергались меньшему риску нападения. Прозрачность окружающего желатина сама по себе не повлияла на выживаемость моделей.",
+      "source_url": "https://europepmc.org/article/MED/42974639",
+      "layout_id": "editorial_saturn_feature",
+      "content_blocks": [
+        {
+          "block_type": "hero_image",
+          "media_ids": [
+            "4c42500845ca6f213aa50b30"
+          ]
+        },
+        {
+          "block_type": "heading",
+          "text": "Пятна снизили риск"
+        },
+        {
+          "block_type": "body",
+          "text": "Модели с непрозрачными пятнами на спине подвергались меньшему риску нападения. Прозрачность окружающего желатина сама по себе не повлияла на выживаемость моделей."
+        }
+      ]
+    },
+    {
+      "id": "slide-4",
+      "title": "Вывод с оговоркой",
+      "body": "Авторы предполагают, что сочетание полупрозрачных участков и непрозрачного рисунка может помогать скрывать внутренние органы. Этот результат относится к полевому испытанию моделей и не означает, что прозрачность всегда защищает животных.",
+      "source_url": "https://europepmc.org/article/MED/42974639",
+      "layout_id": "editorial_text",
+      "content_blocks": [
+        {
+          "block_type": "heading",
+          "text": "Вывод с оговоркой"
+        },
+        {
+          "block_type": "body",
+          "text": "Авторы предполагают, что сочетание полупрозрачных участков и непрозрачного рисунка может помогать скрывать внутренние органы. Этот результат относится к полевому испытанию моделей и не означает, что прозрачность всегда защищает животных."
+        }
+      ]
+    }
+  ],
+  "media": {
+    "2338bf9c5643f8ace44e6351": {
+      "title": "Hyalinobatrachium fleischmanni 472324585.jpg",
+      "alt": "Fleischmann's Glass Frog (Hyalinobatrachium fleischmanni) in Nicaragua",
+      "creator": "Borja Fierro",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hyalinobatrachium_fleischmanni_472324585.jpg",
+      "accessed_at": "2026-11-05",
+      "uri": "media/ccfff621386088f087837acbbec1f40a719a825f179107b676b0d3a01beca68f.jpg",
+      "sha256": "ccfff621386088f087837acbbec1f40a719a825f179107b676b0d3a01beca68f",
+      "width": 1204,
+      "height": 1508
+    },
+    "4c42500845ca6f213aa50b30": {
+      "title": "Centrolene antioquiense.jpg",
+      "alt": "Centrolene antioquiense",
+      "creator": "Mauricio Rivera Correa",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Centrolene_antioquiense.jpg",
+      "accessed_at": "2026-11-05",
+      "uri": "media/a2ef779d4de66bed4670fa60175304aa3eac2d241c5fe9e28c2180de26bd6e77.jpg",
+      "sha256": "a2ef779d4de66bed4670fa60175304aa3eac2d241c5fe9e28c2180de26bd6e77",
+      "width": 683,
+      "height": 512
+    },
+    "c4752a4b97db561200f5d4dc": {
+      "title": "Hyalinobatrachium fleischmanni01a.jpg",
+      "alt": "Hyalinobatrachium fleischmanni",
+      "creator": "Mauricio Rivera Correa",
+      "license": "CC BY-SA 2.5",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Hyalinobatrachium_fleischmanni01a.jpg",
+      "accessed_at": "2026-11-05",
+      "uri": "media/4d15d75d9939570cf5f5d931424a29c2798aabe10276d0f375561ea41c0b6154.jpg",
+      "sha256": "4d15d75d9939570cf5f5d931424a29c2798aabe10276d0f375561ea41c0b6154",
+      "width": 683,
+      "height": 512
+    }
+  }
+}
