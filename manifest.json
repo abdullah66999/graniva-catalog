@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalog_version": "2026-11-05.3",
-  "generated_at": "2026-11-05T02:03:48+00:00",
+  "generated_at": "2026-11-05T02:11:27+00:00",
   "min_supported_app_version": 4,
   "index_path": "stories/index-567e57dd69bcf8ccc3e3a1bfe3353f0119078adc8a623933028949bd3c2b9e2f.json",
   "checksum_sha256": "567e57dd69bcf8ccc3e3a1bfe3353f0119078adc8a623933028949bd3c2b9e2f",
