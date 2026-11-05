@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "stories": [
+    {
+      "id": "moon-pilot",
+      "revision": 1,
+      "title": "Почему Луна показывает нам почти одну и ту же сторону?",
+      "topic": "space",
+      "detail_path": "stories/moon-pilot-b180a8cd0cd2a5c0eac71781de1e8c30014ce13b094880e0f2f088a553dc0275.json",
+      "sha256": "b180a8cd0cd2a5c0eac71781de1e8c30014ce13b094880e0f2f088a553dc0275"
+    },
+    {
+      "id": "ocean-tides",
+      "revision": 1,
+      "title": "Почему море дважды поднимается за лунные сутки?",
+      "topic": "ocean",
+      "detail_path": "stories/ocean-tides-453bb3badc21f31bac68d59b6fbcf260943e08d81845ce3b003676260472ae6a.json",
+      "sha256": "453bb3badc21f31bac68d59b6fbcf260943e08d81845ce3b003676260472ae6a"
+    }
+  ]
+}
