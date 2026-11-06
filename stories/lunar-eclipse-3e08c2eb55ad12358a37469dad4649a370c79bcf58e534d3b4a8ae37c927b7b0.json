@@ -1,0 +1,158 @@
+{
+  "schema_version": 1,
+  "id": "lunar-eclipse",
+  "revision": 5,
+  "title": "Почему Луна краснеет во время затмения?",
+  "topic": "space",
+  "slides": [
+    {
+      "id": "earth-shadow",
+      "title": "Полнолуние в тени Земли",
+      "body": "Обычно в полнолуние мы видим всю освещённую сторону Луны. Во время лунного затмения Земля оказывается между Солнцем и Луной настолько точно, что её тень ложится на лунный диск. Если диск целиком входит в центральную часть тени, начинается полная фаза затмения.",
+      "source_url": "https://science.nasa.gov/moon/eclipses/",
+      "layout_id": "editorial_moon_hero_triptych",
+      "content_blocks": [
+        {
+          "block_type": "hero_image",
+          "media_ids": [
+            "c3c7f04ad43a4e5fb2d2792a"
+          ]
+        },
+        {
+          "block_type": "image_triptych",
+          "media_ids": [
+            "8849c5a76245b1bc009cfb70",
+            "c41767aad7b79872dceb5256",
+            "9620862e73a653d99204b8b6"
+          ]
+        },
+        {
+          "block_type": "heading",
+          "text": "Полнолуние в тени Земли"
+        },
+        {
+          "block_type": "body",
+          "text": "Обычно в полнолуние мы видим всю освещённую сторону Луны. Во время лунного затмения Земля оказывается между Солнцем и Луной настолько точно, что её тень ложится на лунный диск. Если диск целиком входит в центральную часть тени, начинается полная фаза затмения."
+        }
+      ]
+    },
+    {
+      "id": "tilted-orbit",
+      "title": "Почему это происходит не каждый месяц",
+      "body": "Орбита Луны наклонена примерно на пять градусов к плоскости, в которой Земля движется вокруг Солнца. Поэтому при большинстве полнолуний Луна проходит выше или ниже земной тени. Для затмения нужно, чтобы полнолуние совпало с подходящим положением Луны на орбите.",
+      "source_url": "https://science.nasa.gov/moon/eclipses/",
+      "layout_id": "editorial_text",
+      "content_blocks": [
+        {
+          "block_type": "heading",
+          "text": "Почему это происходит не каждый месяц"
+        },
+        {
+          "block_type": "body",
+          "text": "Орбита Луны наклонена примерно на пять градусов к плоскости, в которой Земля движется вокруг Солнца. Поэтому при большинстве полнолуний Луна проходит выше или ниже земной тени. Для затмения нужно, чтобы полнолуние совпало с подходящим положением Луны на орбите."
+        }
+      ]
+    },
+    {
+      "id": "red-light",
+      "title": "Свет проходит вдоль края Земли",
+      "body": "Земля закрывает прямой солнечный свет, но часть лучей проходит через её атмосферу и достигает Луны. Синие и фиолетовые лучи рассеиваются сильнее, поэтому в дошедшем до Луны свете заметнее красные и оранжевые оттенки. По той же причине краснеет небо у горизонта на закате.",
+      "source_url": "https://science.nasa.gov/solar-system/moon/an-almost-total-lunar-eclipse/",
+      "layout_id": "editorial_text",
+      "content_blocks": [
+        {
+          "block_type": "heading",
+          "text": "Свет проходит вдоль края Земли"
+        },
+        {
+          "block_type": "body",
+          "text": "Земля закрывает прямой солнечный свет, но часть лучей проходит через её атмосферу и достигает Луны. Синие и фиолетовые лучи рассеиваются сильнее, поэтому в дошедшем до Луны свете заметнее красные и оранжевые оттенки. По той же причине краснеет небо у горизонта на закате."
+        }
+      ]
+    },
+    {
+      "id": "different-shades",
+      "title": "Почему затмения бывают разного цвета",
+      "body": "Во время полного затмения Луна может выглядеть медной, красной или тёмно-бурой. Оттенок и яркость зависят от состояния земной атмосферы, через которую проходит свет. Поэтому два затмения, похожие по расположению Солнца, Земли и Луны, могут выглядеть по-разному.",
+      "source_url": "https://science.nasa.gov/earth/earth-observatory/shades-of-a-lunar-eclipse/",
+      "layout_id": "editorial_text",
+      "content_blocks": [
+        {
+          "block_type": "heading",
+          "text": "Почему затмения бывают разного цвета"
+        },
+        {
+          "block_type": "body",
+          "text": "Во время полного затмения Луна может выглядеть медной, красной или тёмно-бурой. Оттенок и яркость зависят от состояния земной атмосферы, через которую проходит свет. Поэтому два затмения, похожие по расположению Солнца, Земли и Луны, могут выглядеть по-разному."
+        }
+      ]
+    }
+  ],
+  "media": {
+    "c3c7f04ad43a4e5fb2d2792a": {
+      "title": "KENNEDY SPACE CENTER, FLA. - The start of a lunar eclipse is viewed from Merritt Island, Fla. Eclipses occur when the Sun, Earth and Moon line up. They are rare because the Moon us",
+      "alt": "KENNEDY SPACE CENTER, FLA. - The start of a lunar eclipse is viewed from Merritt Island, Fla. Eclipses occur when the Sun, Earth and Moon line up. They are rare because the Moon usually passes above or below the imaginary line connecting Earth and th",
+      "creator": "NASA KSC",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_url": "https://images.nasa.gov/details/KSC-03pd3081",
+      "accessed_at": "2026-11-06",
+      "uri": "media/d26bdf17d3a3cedc214bd52aaa6d2501bf741b3d033317ef9b9bcc5ad0ce5606.jpg",
+      "sha256": "d26bdf17d3a3cedc214bd52aaa6d2501bf741b3d033317ef9b9bcc5ad0ce5606",
+      "width": 640,
+      "height": 484
+    },
+    "8849c5a76245b1bc009cfb70": {
+      "title": "KSC-00pp0092",
+      "alt": "Traveling west to east, the full moon, viewed from Merritt Island, Fla., at 10:35 p.m. EST, moves into the Earth's shadow during a lunar eclipse. Eclipses occur when the Sun, Earth and Moon line up. They are rare because the Moon usually passes above",
+      "creator": "NASA KSC",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_url": "https://images.nasa.gov/details/KSC-00pp0092",
+      "accessed_at": "2026-11-06",
+      "uri": "media/fb93da65ffa43e13c357f41987b74bb152c749941fa3a6edb6fa210096a6a220.jpg",
+      "sha256": "fb93da65ffa43e13c357f41987b74bb152c749941fa3a6edb6fa210096a6a220",
+      "width": 640,
+      "height": 423
+    },
+    "c41767aad7b79872dceb5256": {
+      "title": "Lunar eclipse, late phase, always red in the shadow area, which throws the earth on the moon. (29816890008).jpg",
+      "alt": "Lunar eclipse, late phase, always red in the shadow area, which throws the earth on the moon.",
+      "creator": "hundertblumen",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Lunar_eclipse,_late_phase,_always_red_in_the_shadow_area,_which_throws_the_earth_on_the_moon._(29816890008).jpg",
+      "accessed_at": "2026-11-06",
+      "uri": "media/2f8c4f9252fc34580f0a78f38ab6e309c61eb0a3a7dcb1390d4e50d761b7d96e.jpg",
+      "sha256": "2f8c4f9252fc34580f0a78f38ab6e309c61eb0a3a7dcb1390d4e50d761b7d96e",
+      "width": 1000,
+      "height": 667
+    },
+    "9620862e73a653d99204b8b6": {
+      "title": "Image shows Trona Pinnacles near California’s NASA Armstrong Flight Research Center during Jan. 31 Super Blue Blood Moon. Trona Pinnacles is an unusual geological feature of the st",
+      "alt": "NASA Armstrong Flight Research Center photographer Lauren Hughes takes photos of the Super Blue Blood Moon eclipse from California’s Trona Pinnacles Desert National Conservation for the Jan. 31 of the total lunar eclipse that provided a rare opportun",
+      "creator": "NASA AFRC",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_url": "https://images.nasa.gov/details/AFRC2018-0020-09",
+      "accessed_at": "2026-11-06",
+      "uri": "media/cb763a6abb7ca0e0d872105a6e0bf322e54f2fa7a20b1d35ff9fbc056bd71c71.jpg",
+      "sha256": "cb763a6abb7ca0e0d872105a6e0bf322e54f2fa7a20b1d35ff9fbc056bd71c71",
+      "width": 640,
+      "height": 426
+    }
+  },
+  "chapters": [
+    {
+      "title": "Как Луна входит в тень",
+      "start_slide_id": "earth-shadow"
+    },
+    {
+      "title": "Откуда берётся красный свет",
+      "start_slide_id": "red-light"
+    }
+  ],
+  "related_story_ids": [
+    "moon-pilot"
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "id": "moon-pilot",
+  "revision": 3,
+  "title": "Почему Луна показывает нам почти одну и ту же сторону?",
+  "topic": "space",
+  "slides": [
+    {
+      "id": "synchronous-rotation",
+      "title": "Один оборот за один круг",
+      "body": "За один круг вокруг Земли Луна успевает один раз повернуться вокруг своей оси. Поэтому к нам обращена примерно одна и та же сторона. Такое совпадение периодов называется синхронным вращением.",
+      "source_url": "https://science.nasa.gov/resource/the-moons-rotation/",
+      "layout_id": "editorial_moon_hero_triptych",
+      "content_blocks": [
+        {
+          "block_type": "hero_image",
+          "media_ids": [
+            "aa23f5abb90c34b045b150f0"
+          ]
+        },
+        {
+          "block_type": "image_pair",
+          "media_ids": [
+            "9e5520884b4e4b72895ebd64",
+            "7fb0eea2ef0cd024713816bc"
+          ]
+        },
+        {
+          "block_type": "heading",
+          "text": "Один оборот за один круг"
+        },
+        {
+          "block_type": "body",
+          "text": "За один круг вокруг Земли Луна успевает один раз повернуться вокруг своей оси. Поэтому к нам обращена примерно одна и та же сторона. Такое совпадение периодов называется синхронным вращением."
+        }
+      ]
+    },
+    {
+      "id": "illumination",
+      "title": "На обратной стороне тоже бывает день",
+      "body": "Обратная сторона Луны получает солнечный свет так же, как видимая. В новолуние почти вся обращённая к нам сторона находится в тени, а большая часть обратной освещена Солнцем.",
+      "source_url": "https://science.nasa.gov/moon/top-moon-questions/",
+      "layout_id": "editorial_text",
+      "content_blocks": [
+        {
+          "block_type": "heading",
+          "text": "На обратной стороне тоже бывает день"
+        },
+        {
+          "block_type": "body",
+          "text": "Обратная сторона Луны получает солнечный свет так же, как видимая. В новолуние почти вся обращённая к нам сторона находится в тени, а большая часть обратной освещена Солнцем."
+        }
+      ]
+    },
+    {
+      "id": "libration",
+      "title": "Почему «почти»?",
+      "body": "По эллиптической орбите Луна движется то быстрее, то медленнее, а вокруг оси вращается равномерно. Из-за этого с Земли она выглядит так, словно слегка покачивается. В разные дни нам открывается чуть больше восточного или западного края. Это называется либрацией по долготе.",
+      "source_url": "https://science.nasa.gov/moon/moon-phases/",
+      "layout_id": "editorial_text",
+      "content_blocks": [
+        {
+          "block_type": "heading",
+          "text": "Почему «почти»?"
+        },
+        {
+          "block_type": "body",
+          "text": "По эллиптической орбите Луна движется то быстрее, то медленнее, а вокруг оси вращается равномерно. Из-за этого с Земли она выглядит так, словно слегка покачивается. В разные дни нам открывается чуть больше восточного или западного края. Это называется либрацией по долготе."
+        }
+      ]
+    }
+  ],
+  "media": {
+    "aa23f5abb90c34b045b150f0": {
+      "title": "Полнолуние, Luc Viatour",
+      "alt": "Полнолуние, Luc Viatour",
+      "creator": "Luc Viatour",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Full_Moon_Luc_Viatour.jpg",
+      "accessed_at": "2026-11-05",
+      "uri": "media/51baedd81764208050b64bb1c4819c5ef1609c78e85274ebad929413c2c1f15a.jpg",
+      "sha256": "51baedd81764208050b64bb1c4819c5ef1609c78e85274ebad929413c2c1f15a",
+      "width": 1280,
+      "height": 1292
+    },
+    "9e5520884b4e4b72895ebd64": {
+      "title": "Видимая сторона Луны, Gregory H. Revera",
+      "alt": "Видимая сторона Луны, Gregory H. Revera",
+      "creator": "Gregory H. Revera",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg",
+      "accessed_at": "2026-11-05",
+      "uri": "media/4992e5d9fb5424329078fb60431fc70a0ab934f0d305c9bcbc42553f56389a7e.jpg",
+      "sha256": "4992e5d9fb5424329078fb60431fc70a0ab934f0d305c9bcbc42553f56389a7e",
+      "width": 1280,
+      "height": 1216
+    },
+    "7fb0eea2ef0cd024713816bc": {
+      "title": "Обратная сторона Луны, LRO",
+      "alt": "Обратная сторона Луны, мозаика LRO",
+      "creator": "NASA",
+      "license": "Public domain",
+      "license_url": "https://commons.wikimedia.org/wiki/File:Moon_farside_LRO_5000.jpg#Licensing",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Moon_farside_LRO_5000.jpg",
+      "accessed_at": "2026-11-05",
+      "uri": "media/123f1378ad323f64cdd72d0473fee57688898607e5f8d365f73c2be9a1c79f26.jpg",
+      "sha256": "123f1378ad323f64cdd72d0473fee57688898607e5f8d365f73c2be9a1c79f26",
+      "width": 1280,
+      "height": 1280
+    }
+  }
+}

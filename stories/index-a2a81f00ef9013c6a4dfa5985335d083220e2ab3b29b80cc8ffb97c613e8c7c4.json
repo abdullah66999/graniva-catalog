@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "stories": [
+    {
+      "id": "moon-pilot",
+      "revision": 3,
+      "title": "Почему Луна показывает нам почти одну и ту же сторону?",
+      "topic": "space",
+      "detail_path": "stories/moon-pilot-0367f614e2358812f38d15bf19df425dcbbabeb94a89e0ee908872487043ffa0.json",
+      "sha256": "0367f614e2358812f38d15bf19df425dcbbabeb94a89e0ee908872487043ffa0"
+    },
+    {
+      "id": "ocean-tides",
+      "revision": 3,
+      "title": "Почему море дважды поднимается за лунные сутки?",
+      "topic": "ocean",
+      "detail_path": "stories/ocean-tides-5467c9a2be4de3b2cfd9e8be5434a385bda3f7b0a740134389097cccf4c1c570.json",
+      "sha256": "5467c9a2be4de3b2cfd9e8be5434a385bda3f7b0a740134389097cccf4c1c570"
+    },
+    {
+      "id": "lunar-eclipse",
+      "revision": 5,
+      "title": "Почему Луна краснеет во время затмения?",
+      "topic": "space",
+      "detail_path": "stories/lunar-eclipse-3e08c2eb55ad12358a37469dad4649a370c79bcf58e534d3b4a8ae37c927b7b0.json",
+      "sha256": "3e08c2eb55ad12358a37469dad4649a370c79bcf58e534d3b4a8ae37c927b7b0"
+    },
+    {
+      "id": "auto-8a3d726d8aa1305666",
+      "revision": 4,
+      "title": "Как пятна помогают маскировке стеклянных лягушек",
+      "topic": "nature",
+      "detail_path": "stories/auto-8a3d726d8aa1305666-febd7fb80c46c1696646ed258f56050d712dc229a18d914c7b713480475e1418.json",
+      "sha256": "febd7fb80c46c1696646ed258f56050d712dc229a18d914c7b713480475e1418"
+    },
+    {
+      "id": "auto-b3955db4dcd9334123",
+      "revision": 2,
+      "title": "Планы NASA по ускорению программы «Артемида»",
+      "topic": "space",
+      "detail_path": "stories/auto-b3955db4dcd9334123-dfa264975d1d031d246729e9b44b19894a4fb3d2ee766edc9c3e3c8b90fbe56b.json",
+      "sha256": "dfa264975d1d031d246729e9b44b19894a4fb3d2ee766edc9c3e3c8b90fbe56b"
+    },
+    {
+      "id": "auto-d2a51ad551b4f8a48f",
+      "revision": 3,
+      "title": "Миграция и орбиты планет в резонансных системах",
+      "topic": "space",
+      "detail_path": "stories/auto-d2a51ad551b4f8a48f-a672e14e981dcc06f6278674a39d40277e3c4c014a79f4710356f4e04e499066.json",
+      "sha256": "a672e14e981dcc06f6278674a39d40277e3c4c014a79f4710356f4e04e499066"
+    }
+  ]
+}
