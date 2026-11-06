@@ -15,6 +15,8 @@ OBJECT = "worker/workspace.zip"
 MAX_ARCHIVE = 240 * 1024 * 1024
 SKIP_DIRS = {".git", ".venv", "__pycache__", "node_modules", "dist", "logs", "reports", "proofs"}
 SKIP_FILES = {".env", ".drafts.lock", ".state.lock", "state.json"}
+# These are local-only QA previews and duplicate immutable files from approved/media.
+SKIP_PREFIXES = {("autopilot", "qa-templates", "media")}
 
 
 def credentials(root):
@@ -59,6 +61,8 @@ def paths(root):
             if name in SKIP_FILES or name == ".env" or name.startswith(".env.") or path.is_symlink():
                 continue
             if any(part in SKIP_DIRS for part in relative.parts):
+                continue
+            if any(relative.parts[:len(prefix)] == prefix for prefix in SKIP_PREFIXES):
                 continue
             yield path, relative
 
