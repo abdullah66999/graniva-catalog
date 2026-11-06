@@ -1,10 +1,10 @@
 {
   "schema_version": 1,
-  "catalog_version": "2026-11-06.0",
-  "generated_at": "2026-11-05T23:21:35+00:00",
+  "catalog_version": "2026-11-06.1",
+  "generated_at": "2026-11-06T03:53:32+00:00",
   "min_supported_app_version": 6,
-  "index_path": "stories/index-8078dd752c48511bb21789e18244c164803345fd59ee71eef07db821d05045db.json",
-  "checksum_sha256": "8078dd752c48511bb21789e18244c164803345fd59ee71eef07db821d05045db",
+  "index_path": "stories/index-5f2432c3c47d492545687e1fe206365f9310e942b16c0524c3696077ea48345e.json",
+  "checksum_sha256": "5f2432c3c47d492545687e1fe206365f9310e942b16c0524c3696077ea48345e",
   "item_count": 4,
   "withdrawn_story_ids": []
 }
