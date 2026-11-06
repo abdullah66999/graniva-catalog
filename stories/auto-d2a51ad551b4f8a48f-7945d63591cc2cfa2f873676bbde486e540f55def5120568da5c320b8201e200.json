@@ -1,0 +1,164 @@
+{
+  "schema_version": 1,
+  "id": "auto-d2a51ad551b4f8a48f",
+  "revision": 1,
+  "title": "Миграция и орбиты планет в резонансных системах",
+  "topic": "space",
+  "slides": [
+    {
+      "id": "slide-1",
+      "title": "Взаимодействие планет и газовых дисков",
+      "body": "Приливные взаимодействия между планетами и протопланетными дисками меняют большие полуоси орбит и их эксцентриситет. В препринте изучается, как именно это происходит в системах с двумя планетами, находящимися в орбитальном резонансе 2:1.",
+      "source_url": "https://arxiv.org/abs/2611.06765v1",
+      "layout_id": "editorial_moon_hero_triptych",
+      "content_blocks": [
+        {
+          "block_type": "hero_image",
+          "media_ids": [
+            "70de5b911823bd07d8370714"
+          ]
+        },
+        {
+          "block_type": "image_triptych",
+          "media_ids": [
+            "48093511c5b7c7ff45656385",
+            "f0bd1141fa3d8d63d8b8d8c0",
+            "a34bb189ec35f6d8407ce63b"
+          ]
+        },
+        {
+          "block_type": "heading",
+          "text": "Взаимодействие планет и газовых дисков"
+        },
+        {
+          "block_type": "body",
+          "text": "Приливные взаимодействия между планетами и протопланетными дисками меняют большие полуоси орбит и их эксцентриситет. В препринте изучается, как именно это происходит в системах с двумя планетами, находящимися в орбитальном резонансе 2:1."
+        }
+      ]
+    },
+    {
+      "id": "slide-2",
+      "title": "Изменчивость временных шкал",
+      "body": "В препринте отмечается, что принятое допущение о постоянстве временных шкал миграции и затухания эксцентриситета не вполне точно. Исследователи обнаружили, что эти показатели зависят от времени и меняются в ходе эволюции системы из-за колебаний эксцентриситета.",
+      "source_url": "https://arxiv.org/abs/2611.06765v1",
+      "layout_id": "editorial_text",
+      "content_blocks": [
+        {
+          "block_type": "heading",
+          "text": "Изменчивость временных шкал"
+        },
+        {
+          "block_type": "body",
+          "text": "В препринте отмечается, что принятое допущение о постоянстве временных шкал миграции и затухания эксцентриситета не вполне точно. Исследователи обнаружили, что эти показатели зависят от времени и меняются в ходе эволюции системы из-за колебаний эксцентриситета."
+        }
+      ]
+    },
+    {
+      "id": "slide-3",
+      "title": "Сравнение моделей",
+      "body": "Препринт показывает, что модели, использующие константные временные шкалы, не могут точно воспроизвести результаты гидродинамического моделирования. Более точные результаты дают подходы, основанные на анализе вращательных моментов сил.",
+      "source_url": "https://arxiv.org/abs/2611.06765v1",
+      "layout_id": "editorial_moon_hero_triptych",
+      "content_blocks": [
+        {
+          "block_type": "hero_image",
+          "media_ids": [
+            "d2f7e86845ecd495c61389d9"
+          ]
+        },
+        {
+          "block_type": "heading",
+          "text": "Сравнение моделей"
+        },
+        {
+          "block_type": "body",
+          "text": "Препринт показывает, что модели, использующие константные временные шкалы, не могут точно воспроизвести результаты гидродинамического моделирования. Более точные результаты дают подходы, основанные на анализе вращательных моментов сил."
+        }
+      ]
+    },
+    {
+      "id": "slide-4",
+      "title": "Новый взгляд на моделирование",
+      "body": "Авторы препринта делают вывод, что использование зависимых от времени формул для момента сил позволяет лучше связать сложные гидродинамические расчеты с упрощенными моделями движения планет.",
+      "source_url": "https://arxiv.org/abs/2611.06765v1",
+      "layout_id": "editorial_text",
+      "content_blocks": [
+        {
+          "block_type": "heading",
+          "text": "Новый взгляд на моделирование"
+        },
+        {
+          "block_type": "body",
+          "text": "Авторы препринта делают вывод, что использование зависимых от времени формул для момента сил позволяет лучше связать сложные гидродинамические расчеты с упрощенными моделями движения планет."
+        }
+      ]
+    }
+  ],
+  "media": {
+    "70de5b911823bd07d8370714": {
+      "title": "HH30 Webb investigates a dusty and dynamic disc (potm2501a).jpg",
+      "alt": "This new NASA/ESA/CSA James Webb Space Telescope Picture of the Month presents HH 30 in unprecedented resolution. This target is an edge-on protoplanetary disc that is surrounded by jets and a disc wind, and is located in the dark cloud LDN 1551 in t",
+      "creator": "ESA/Webb, NASA & CSA, Tazaki et al.",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:HH30_Webb_investigates_a_dusty_and_dynamic_disc_(potm2501a).jpg",
+      "accessed_at": "2026-11-05",
+      "uri": "media/e4425b6945a08b6d7bbc1a79beb826a38d2f69dcc1025fa6f0b6a6e842d8928a.jpg",
+      "sha256": "e4425b6945a08b6d7bbc1a79beb826a38d2f69dcc1025fa6f0b6a6e842d8928a",
+      "width": 1173,
+      "height": 1173
+    },
+    "48093511c5b7c7ff45656385": {
+      "title": "The evolutionary sequence of protoplanetary disks with substructures.png",
+      "alt": "The evolutionary sequence of protoplanetary disks with substructures, from the ALMA CAMPOS survey. These wide varieties of planetary disk structures are possible formation sites for young protoplanets. Image Credit: Hsieh et al. in prep.",
+      "creator": "NRAO/AUI/NSF",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_evolutionary_sequence_of_protoplanetary_disks_with_substructures.png",
+      "accessed_at": "2026-11-05",
+      "uri": "media/de201f4820850ad9012ab7aa58c6d720ea402af80b0a13c7a1523723c69b35e2.jpg",
+      "sha256": "de201f4820850ad9012ab7aa58c6d720ea402af80b0a13c7a1523723c69b35e2",
+      "width": 1278,
+      "height": 904
+    },
+    "f0bd1141fa3d8d63d8b8d8c0": {
+      "title": "Protoplanetary disk radius vs. solid mass scatter plot.jpg",
+      "alt": "From the article: Disk dust mass and radius estimates for Class 0 and I sources in the Orion cluster that are detected with both ALMA (0.87 mm) and the VLA (9 mm; Tobin et al. 2020). We plot the threshold contour above which disks can form systems li",
+      "creator": "Yayaati Chachan, Paul A. Dalba, Heather A. Knutson, Benjamin J. Fulton, Daniel Thorngren, Charles Beichman, David R. Ciardi, Andrew W. Howard, and Judah Van Zandt",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Protoplanetary_disk_radius_vs._solid_mass_scatter_plot.jpg",
+      "accessed_at": "2026-11-05",
+      "uri": "media/6e30d8f2cb2d77a9efd4688f3793d9f384277f573f15a77bef0eb3ae64eefee9.jpg",
+      "sha256": "6e30d8f2cb2d77a9efd4688f3793d9f384277f573f15a77bef0eb3ae64eefee9",
+      "width": 1000,
+      "height": 743
+    },
+    "a34bb189ec35f6d8407ce63b": {
+      "title": "Protoplanetary disk 1 rend 1.png",
+      "alt": "Protoplanetary disk , proplyd",
+      "creator": "Merikanto",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Protoplanetary_disk_1_rend_1.png",
+      "accessed_at": "2026-11-05",
+      "uri": "media/73128b775c6e7c966bad67431c13a37854ac777dd79dab91c9a1ba9303f06043.jpg",
+      "sha256": "73128b775c6e7c966bad67431c13a37854ac777dd79dab91c9a1ba9303f06043",
+      "width": 800,
+      "height": 600
+    },
+    "d2f7e86845ecd495c61389d9": {
+      "title": "Circumplanetary disk simulation with added exomoons.jpg",
+      "alt": "This image shows a cutout (upper right panel) of figure 7 from Sun et al. Abstract Recent observations have confirmed circumplanetary disks (CPDs) embedded in parental protoplanetary disks (PPDs). On the other hand, planetary-mass companions and plan",
+      "creator": "Xilei Sun et al 2024 ApJ 972 25",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Circumplanetary_disk_simulation_with_added_exomoons.jpg",
+      "accessed_at": "2026-11-06",
+      "uri": "media/83f304b977c0fedcf52808f33b8344e93a90a58a2d57ad2a75a3058de44de9f7.jpg",
+      "sha256": "83f304b977c0fedcf52808f33b8344e93a90a58a2d57ad2a75a3058de44de9f7",
+      "width": 822,
+      "height": 705
+    }
+  }
+}
