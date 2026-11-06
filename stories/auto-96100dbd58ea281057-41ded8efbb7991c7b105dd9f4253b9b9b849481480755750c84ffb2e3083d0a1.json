@@ -1,0 +1,136 @@
+{
+  "schema_version": 1,
+  "id": "auto-96100dbd58ea281057",
+  "revision": 1,
+  "title": "Эволюция пыли в протопланетных дисках",
+  "topic": "space",
+  "slides": [
+    {
+      "id": "slide-1",
+      "title": "Магнитные ветры в дисках",
+      "body": "Согласно данным из препринта, наблюдения и теория указывают на слабую турбулентность протопланетных дисков. Это означает, что магнитные ветры дисков могут доминировать в переносе углового момента и их долгосрочной эволюции.",
+      "source_url": "https://arxiv.org/abs/2611.08484v1",
+      "layout_id": "editorial_moon_hero_triptych",
+      "content_blocks": [
+        {
+          "block_type": "hero_image",
+          "media_ids": [
+            "70de5b911823bd07d8370714"
+          ]
+        },
+        {
+          "block_type": "image_pair",
+          "media_ids": [
+            "48093511c5b7c7ff45656385"
+          ]
+        },
+        {
+          "block_type": "heading",
+          "text": "Магнитные ветры в дисках"
+        },
+        {
+          "block_type": "body",
+          "text": "Согласно данным из препринта, наблюдения и теория указывают на слабую турбулентность протопланетных дисков. Это означает, что магнитные ветры дисков могут доминировать в переносе углового момента и их долгосрочной эволюции."
+        }
+      ]
+    },
+    {
+      "id": "slide-2",
+      "title": "Параметрическая модель",
+      "body": "В препринте описывается созданная авторами гибридная модель эволюции диска, которая включает турбулентную аккрецию, аккрецию за счет ветра и потерю массы под влиянием ветра для изучения эволюции пыли.",
+      "source_url": "https://arxiv.org/abs/2611.08484v1",
+      "layout_id": "editorial_text",
+      "content_blocks": [
+        {
+          "block_type": "heading",
+          "text": "Параметрическая модель"
+        },
+        {
+          "block_type": "body",
+          "text": "В препринте описывается созданная авторами гибридная модель эволюции диска, которая включает турбулентную аккрецию, аккрецию за счет ветра и потерю массы под влиянием ветра для изучения эволюции пыли."
+        }
+      ]
+    },
+    {
+      "id": "slide-3",
+      "title": "Условия для планетезималей",
+      "body": "Авторы препринта выяснили, что условия, подходящие для потоковой неуinstability и формирования планетезималей, возникают только в пределах нескольких внутренних астрономических единиц и лишь при самых экстремальных условиях.",
+      "source_url": "https://arxiv.org/abs/2611.08484v1",
+      "layout_id": "editorial_moon_hero_triptych",
+      "content_blocks": [
+        {
+          "block_type": "hero_image",
+          "media_ids": [
+            "ca8fd87ed4d9a765e078e9e8"
+          ]
+        },
+        {
+          "block_type": "heading",
+          "text": "Условия для планетезималей"
+        },
+        {
+          "block_type": "body",
+          "text": "Авторы препринта выяснили, что условия, подходящие для потоковой неуinstability и формирования планетезималей, возникают только в пределах нескольких внутренних астрономических единиц и лишь при самых экстремальных условиях."
+        }
+      ]
+    },
+    {
+      "id": "slide-4",
+      "title": "Необходимость новых моделей",
+      "body": "Результаты из препринта показывают, что за пределами внутренних нескольких астрономических единиц рассмотренные модели не создают условий для образования планетезималей сами по себе, что требует более полных физических моделей.",
+      "source_url": "https://arxiv.org/abs/2611.08484v1",
+      "layout_id": "editorial_text",
+      "content_blocks": [
+        {
+          "block_type": "heading",
+          "text": "Необходимость новых моделей"
+        },
+        {
+          "block_type": "body",
+          "text": "Результаты из препринта показывают, что за пределами внутренних нескольких астрономических единиц рассмотренные модели не создают условий для образования планетезималей сами по себе, что требует более полных физических моделей."
+        }
+      ]
+    }
+  ],
+  "media": {
+    "70de5b911823bd07d8370714": {
+      "title": "HH30 Webb investigates a dusty and dynamic disc (potm2501a).jpg",
+      "alt": "This new NASA/ESA/CSA James Webb Space Telescope Picture of the Month presents HH 30 in unprecedented resolution. This target is an edge-on protoplanetary disc that is surrounded by jets and a disc wind, and is located in the dark cloud LDN 1551 in t",
+      "creator": "ESA/Webb, NASA & CSA, Tazaki et al.",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:HH30_Webb_investigates_a_dusty_and_dynamic_disc_(potm2501a).jpg",
+      "accessed_at": "2026-11-06",
+      "uri": "media/e4425b6945a08b6d7bbc1a79beb826a38d2f69dcc1025fa6f0b6a6e842d8928a.jpg",
+      "sha256": "e4425b6945a08b6d7bbc1a79beb826a38d2f69dcc1025fa6f0b6a6e842d8928a",
+      "width": 1173,
+      "height": 1173
+    },
+    "48093511c5b7c7ff45656385": {
+      "title": "The evolutionary sequence of protoplanetary disks with substructures.png",
+      "alt": "The evolutionary sequence of protoplanetary disks with substructures, from the ALMA CAMPOS survey. These wide varieties of planetary disk structures are possible formation sites for young protoplanets. Image Credit: Hsieh et al. in prep.",
+      "creator": "NRAO/AUI/NSF",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:The_evolutionary_sequence_of_protoplanetary_disks_with_substructures.png",
+      "accessed_at": "2026-11-06",
+      "uri": "media/de201f4820850ad9012ab7aa58c6d720ea402af80b0a13c7a1523723c69b35e2.jpg",
+      "sha256": "de201f4820850ad9012ab7aa58c6d720ea402af80b0a13c7a1523723c69b35e2",
+      "width": 1278,
+      "height": 904
+    },
+    "ca8fd87ed4d9a765e078e9e8": {
+      "title": "Planetesimal.jpg",
+      "alt": "Planetesimals are solid objects thought to exist in protoplanetary disks and debris disks. Per the Chamberlin–Moulton planetesimal hypothesis, they are believed to form out of cosmic dust grains. Believed to have formed in the Solar System about 4.6 ",
+      "creator": "Pablo Carlos Budassi",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Planetesimal.jpg",
+      "accessed_at": "2026-11-06",
+      "uri": "media/0c056e360c6a3c0467bcdca29145bbb6b6ad40d6bb61c0940104e09f3eb75a27.jpg",
+      "sha256": "0c056e360c6a3c0467bcdca29145bbb6b6ad40d6bb61c0940104e09f3eb75a27",
+      "width": 1080,
+      "height": 1080
+    }
+  }
+}
