@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
+    inputs:
+      diagnostics_only:
+        description: "Run read-only provider credential checks; do not generate or publish stories"
+        required: false
+        default: false
+        type: boolean
 
 concurrency:
   group: facetline-autopilot-${{ github.ref }}
@@ -44,9 +50,18 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Verify provider credentials without generating content
+        if: github.event_name == 'workflow_dispatch' && inputs.diagnostics_only && steps.preflight.outputs.ready == 'true'
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: python .github/scripts/key_diagnostics.py
+
       - name: Restore private worker workspace
         id: workspace
-        if: steps.preflight.outputs.ready == 'true'
+        if: ${{ steps.preflight.outputs.ready == 'true' && !(github.event_name == 'workflow_dispatch' && inputs.diagnostics_only) }}
         env:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
@@ -75,3 +90,4 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
         run: python .github/scripts/cloud_workspace.py upload --root worker-runtime
+
