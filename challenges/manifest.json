@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "version": "2026-11-06.6",
+  "version": "2026-11-06.8",
   "items": [
     {
       "id": "apollo-17-fieldwork",
@@ -123,11 +123,11 @@
       "topic": "space",
       "level": "beginner",
       "duration_minutes": 10,
-      "description": "Источник-проверенное вводное занятие: Обратная сторона Луны.",
-      "revision": 1,
-      "path": "challenges/packages/moon-farside-9d73e50190cbd83aa14339cdb13b57b2d6180ccaa41e426fe821933413fed95b.json",
-      "sha256": "9d73e50190cbd83aa14339cdb13b57b2d6180ccaa41e426fe821933413fed95b",
-      "bytes": 17666,
+      "description": "Почему Луна показывает Земле почти одну сторону, освещается ли обратная сторона и как аппарат LRO составил её карту.",
+      "revision": 3,
+      "path": "challenges/packages/moon-farside-1f87bb2aaa45906a809e79bebfadd0b1289b823133607161fb85075502f475c6.json",
+      "sha256": "1f87bb2aaa45906a809e79bebfadd0b1289b823133607161fb85075502f475c6",
+      "bytes": 19013,
       "cover_media": {
         "uri": "challenges/media/123f1378ad323f64cdd72d0473fee57688898607e5f8d365f73c2be9a1c79f26.jpg",
         "alt": "Обратная сторона Луны, мозаика LRO",
@@ -138,7 +138,7 @@
         "source_url": "https://commons.wikimedia.org/wiki/File:Moon_farside_LRO_5000.jpg",
         "sha256": "123f1378ad323f64cdd72d0473fee57688898607e5f8d365f73c2be9a1c79f26"
       },
-      "download_bytes": 1180287
+      "download_bytes": 1181634
     },
     {
       "id": "moon-geology-reading-landscape",
@@ -169,11 +169,11 @@
       "topic": "space",
       "level": "beginner",
       "duration_minutes": 10,
-      "description": "Источник-проверенное вводное занятие: Луна: сосед Земли.",
-      "revision": 1,
-      "path": "challenges/packages/moon-orbit-fe6807f7ecef1379dac65762acd141f867cddd97292d59c5f647e67da56750ce.json",
-      "sha256": "fe6807f7ecef1379dac65762acd141f867cddd97292d59c5f647e67da56750ce",
-      "bytes": 17737,
+      "description": "Короткий разбор движения Луны, отражённого солнечного света и того, почему её вид меняется в течение месяца.",
+      "revision": 3,
+      "path": "challenges/packages/moon-orbit-dfbbc0a57f1c87df85c7b7a3ff886534c09a0474c334c6b9f2f0a8a9d1a2a1e5.json",
+      "sha256": "dfbbc0a57f1c87df85c7b7a3ff886534c09a0474c334c6b9f2f0a8a9d1a2a1e5",
+      "bytes": 18925,
       "cover_media": {
         "uri": "challenges/media/51baedd81764208050b64bb1c4819c5ef1609c78e85274ebad929413c2c1f15a.jpg",
         "alt": "Полнолуние, Luc Viatour",
@@ -184,7 +184,7 @@
         "source_url": "https://commons.wikimedia.org/wiki/File:Full_Moon_Luc_Viatour.jpg",
         "sha256": "51baedd81764208050b64bb1c4819c5ef1609c78e85274ebad929413c2c1f15a"
       },
-      "download_bytes": 1035492
+      "download_bytes": 1036680
     },
     {
       "id": "moon-phases",
@@ -192,11 +192,11 @@
       "topic": "space",
       "level": "beginner",
       "duration_minutes": 10,
-      "description": "Источник-проверенное вводное занятие: Фазы Луны: почему меняется вид.",
-      "revision": 1,
-      "path": "challenges/packages/moon-phases-e745045b4558934ae270c769183ecf901b0cc37403da0f8a0e7b8a7daad6584b.json",
-      "sha256": "e745045b4558934ae270c769183ecf901b0cc37403da0f8a0e7b8a7daad6584b",
-      "bytes": 17315,
+      "description": "Разберитесь, как положение Солнца, Земли и Луны создаёт фазы и чем обычные фазы отличаются от затмений.",
+      "revision": 3,
+      "path": "challenges/packages/moon-phases-08ba4ea85ae3c036a64c1e78c3749298ebaeb98b28bd63bc8e8d1543eec3bac0.json",
+      "sha256": "08ba4ea85ae3c036a64c1e78c3749298ebaeb98b28bd63bc8e8d1543eec3bac0",
+      "bytes": 18513,
       "cover_media": {
         "uri": "challenges/media/4992e5d9fb5424329078fb60431fc70a0ab934f0d305c9bcbc42553f56389a7e.jpg",
         "alt": "Видимая сторона Луны, Gregory H. Revera",
@@ -207,7 +207,7 @@
         "source_url": "https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg",
         "sha256": "4992e5d9fb5424329078fb60431fc70a0ab934f0d305c9bcbc42553f56389a7e"
       },
-      "download_bytes": 617715
+      "download_bytes": 618913
     },
     {
       "id": "ocean-ctenophores",
@@ -215,11 +215,11 @@
       "topic": "ocean",
       "level": "beginner",
       "duration_minutes": 10,
-      "description": "Источник-проверенное вводное занятие: Гребневики и свет океана.",
-      "revision": 1,
-      "path": "challenges/packages/ocean-ctenophores-e2dac6428a2bf8a50581dc7655b2b6967d39f72c1e4b6cd422d7fed566f017c6.json",
-      "sha256": "e2dac6428a2bf8a50581dc7655b2b6967d39f72c1e4b6cd422d7fed566f017c6",
-      "bytes": 18773,
+      "description": "Как гребневики движутся в воде и почему радужные полосы на кадре NOAA легко принять за биолюминесценцию.",
+      "revision": 3,
+      "path": "challenges/packages/ocean-ctenophores-6b9a9a46817101f7655d5385cb57ddef5a8b4f24b460f31c015a4decec4b2f70.json",
+      "sha256": "6b9a9a46817101f7655d5385cb57ddef5a8b4f24b460f31c015a4decec4b2f70",
+      "bytes": 20020,
       "cover_media": {
         "uri": "challenges/media/63445fe00d9bffd92927ff977716b053147ddf98f2fc9b47860bcd349bb545ee.jpg",
         "alt": "Гребневик, фотография NOAA",
@@ -230,7 +230,7 @@
         "source_url": "https://commons.wikimedia.org/wiki/File:Ctenophore.jpg",
         "sha256": "63445fe00d9bffd92927ff977716b053147ddf98f2fc9b47860bcd349bb545ee"
       },
-      "download_bytes": 206898
+      "download_bytes": 208145
     },
     {
       "id": "saturn-rings",
@@ -238,11 +238,11 @@
       "topic": "space",
       "level": "beginner",
       "duration_minutes": 10,
-      "description": "Источник-проверенное вводное занятие: Кольца Сатурна: структура и наблюдения.",
-      "revision": 1,
-      "path": "challenges/packages/saturn-rings-2b11d833903436de015472fe6bc4e5810ca8ac6f2f6c7f0a7cff47a5e83d3586.json",
-      "sha256": "2b11d833903436de015472fe6bc4e5810ca8ac6f2f6c7f0a7cff47a5e83d3586",
-      "bytes": 18248,
+      "description": "Посмотрите, из чего состоят кольца Сатурна, почему их названия не показывают порядок от планеты и что изучал Cassini.",
+      "revision": 3,
+      "path": "challenges/packages/saturn-rings-257b8ece3eaa61ada6d2b20ab58d6a2a89bbc13e7e974fef323e118d49b4544f.json",
+      "sha256": "257b8ece3eaa61ada6d2b20ab58d6a2a89bbc13e7e974fef323e118d49b4544f",
+      "bytes": 19481,
       "cover_media": {
         "uri": "challenges/media/ddc7763d86cfb9dd4904db93f7f096485c7bb298393fbf1fbaaa2909a9e5fe8a.jpg",
         "alt": "Сатурн и его кольца, вид сверху",
@@ -253,7 +253,7 @@
         "source_url": "https://commons.wikimedia.org/wiki/File:Top_view_of_the_rings_of_Saturn_by_Cassini_-_October_10,_2013.jpg",
         "sha256": "ddc7763d86cfb9dd4904db93f7f096485c7bb298393fbf1fbaaa2909a9e5fe8a"
       },
-      "download_bytes": 225703
+      "download_bytes": 226936
     },
     {
       "id": "saturn-world",
@@ -261,11 +261,11 @@
       "topic": "space",
       "level": "beginner",
       "duration_minutes": 10,
-      "description": "Источник-проверенное вводное занятие: Сатурн: планета-гигант.",
-      "revision": 1,
-      "path": "challenges/packages/saturn-world-df4a76e0cd097deb1cb87db8c20e071fc33bb264190c24793e2b6e6ea0797fe6.json",
-      "sha256": "df4a76e0cd097deb1cb87db8c20e071fc33bb264190c24793e2b6e6ea0797fe6",
-      "bytes": 17189,
+      "description": "Краткое знакомство с Сатурном: его место в Солнечной системе, состав колец и то, что можно увидеть на снимках Cassini.",
+      "revision": 3,
+      "path": "challenges/packages/saturn-world-b8b84cb0abd9ce0fad72a037e1b50203d6a8f5ad06895db79712ed5cfe78e95f.json",
+      "sha256": "b8b84cb0abd9ce0fad72a037e1b50203d6a8f5ad06895db79712ed5cfe78e95f",
+      "bytes": 18305,
       "cover_media": {
         "uri": "challenges/media/4dac8af242ed80f7bc5e5123f8734f420be01694b955a1bfccc6a793e3418457.jpg",
         "alt": "Сатурн, крупный план",
@@ -276,7 +276,8 @@
         "source_url": "https://commons.wikimedia.org/wiki/File:Saturn_closeup.jpg",
         "sha256": "4dac8af242ed80f7bc5e5123f8734f420be01694b955a1bfccc6a793e3418457"
       },
-      "download_bytes": 165846
+      "download_bytes": 166962
     }
   ]
 }
+
