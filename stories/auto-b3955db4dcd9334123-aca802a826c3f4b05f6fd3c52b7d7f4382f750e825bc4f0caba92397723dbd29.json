@@ -1,0 +1,213 @@
+{
+  "schema_version": 1,
+  "id": "auto-b3955db4dcd9334123",
+  "revision": 1,
+  "title": "Планы NASA по ускорению программы «Артемида»",
+  "topic": "space",
+  "slides": [
+    {
+      "id": "slide-1",
+      "title": "Испытательная миссия «Артемида-3»",
+      "body": "В 2027 году NASA планирует миссию на околоземной орбите. Четыре астронавта на корабле Orion отработают сближение и стыковку с тестовыми лунными модулями компаний SpaceX и Blue Origin в течение 14 дней.",
+      "source_url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "layout_id": "editorial_moon_hero_triptych",
+      "content_blocks": [
+        {
+          "block_type": "hero_image",
+          "media_ids": [
+            "33d28671c6f8857dd0239b82"
+          ]
+        },
+        {
+          "block_type": "image_triptych",
+          "media_ids": [
+            "a7bd0bb2527626dbaafb8f9a",
+            "827901410016031b1fd3f718",
+            "1a7f22057b5a4150d1972c20"
+          ]
+        },
+        {
+          "block_type": "heading",
+          "text": "Испытательная миссия «Артемида-3»"
+        },
+        {
+          "block_type": "body",
+          "text": "В 2027 году NASA планирует миссию на околоземной орбите. Четыре астронавта на корабле Orion отработают сближение и стыковку с тестовыми лунными модулями компаний SpaceX и Blue Origin в течение 14 дней."
+        }
+      ]
+    },
+    {
+      "id": "slide-2",
+      "title": "Возвращение на Луну в 2028 году",
+      "body": "В ходе миссии «Артемида-4» астронавты отправятся на поверхность Луны. NASA сотрудничает со SpaceX и Blue Origin, которые разрабатывают способы доставки экипажа на поверхность и пересмотрели свои подходы для упрощения и повышения эффективности миссий.",
+      "source_url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "layout_id": "editorial_moon_hero_triptych",
+      "content_blocks": [
+        {
+          "block_type": "hero_image",
+          "media_ids": [
+            "31527e32044f3c38034fbe62"
+          ]
+        },
+        {
+          "block_type": "image_triptych",
+          "media_ids": [
+            "97a9e18b1e57c33ae935201b",
+            "b805af54d2e9968fb9814903",
+            "bcef61127213f65dd5d0b6e3"
+          ]
+        },
+        {
+          "block_type": "heading",
+          "text": "Возвращение на Луну в 2028 году"
+        },
+        {
+          "block_type": "body",
+          "text": "В ходе миссии «Артемида-4» астронавты отправятся на поверхность Луны. NASA сотрудничает со SpaceX и Blue Origin, которые разрабатывают способы доставки экипажа на поверхность и пересмотрели свои подходы для упрощения и повышения эффективности миссий."
+        }
+      ]
+    },
+    {
+      "id": "slide-3",
+      "title": "Технические инновации",
+      "body": "NASA самостоятельно разработало и испытало компонент топливной линии за пять месяцев, значительно сократив расходы. Также совместно с Axiom Space создается облегченный «Sortie suit», который весит вдвое меньше основного скафандра и предназначен для первых выходов на поверхность.",
+      "source_url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "layout_id": "editorial_moon_hero_triptych",
+      "content_blocks": [
+        {
+          "block_type": "hero_image",
+          "media_ids": [
+            "fba7d71ec440a112584cbac7"
+          ]
+        },
+        {
+          "block_type": "heading",
+          "text": "Технические инновации"
+        },
+        {
+          "block_type": "body",
+          "text": "NASA самостоятельно разработало и испытало компонент топливной линии за пять месяцев, значительно сократив расходы. Также совместно с Axiom Space создается облегченный «Sortie suit», который весит вдвое меньше основного скафандра и предназначен для первых выходов на поверхность."
+        }
+      ]
+    }
+  ],
+  "media": {
+    "33d28671c6f8857dd0239b82": {
+      "title": "The Powerhouse of the Orion Spacecraft",
+      "alt": "art002e012584 (April 7, 2026) - NASA’s Orion spacecraft pictured from one of the cameras mounted on its solar array wings. The service module is prominently featured in this image showing a portion of the orbital maneuvering system engine and three o",
+      "creator": "NASA JSC",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_url": "https://images.nasa.gov/details/art002e012584",
+      "accessed_at": "2026-11-06",
+      "uri": "media/13572a85b2bcbf27cb7134b60410603ff637dcb06b8d5cd042ac293d24214183.jpg",
+      "sha256": "13572a85b2bcbf27cb7134b60410603ff637dcb06b8d5cd042ac293d24214183",
+      "width": 640,
+      "height": 480
+    },
+    "a7bd0bb2527626dbaafb8f9a": {
+      "title": "NASA’s Orion Spacecraft",
+      "alt": "art002e012489 (April 7, 2026) - NASA’s Orion spacecraft is pictured here from one of the cameras mounted on its solar array wings. At the time this photo was taken at 8:58 a.m. ET, the Artemis II crew was in a sleep period ahead of beginning their se",
+      "creator": "NASA JSC",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_url": "https://images.nasa.gov/details/art002e012489",
+      "accessed_at": "2026-11-06",
+      "uri": "media/f1be32f94ec7dd1275a6439f513dc573e369ff890e5bc5034f5137c5100f354d.jpg",
+      "sha256": "f1be32f94ec7dd1275a6439f513dc573e369ff890e5bc5034f5137c5100f354d",
+      "width": 640,
+      "height": 480
+    },
+    "827901410016031b1fd3f718": {
+      "title": "Orion Spacecraft Arrives in Ohio Aboard the Super Guppy at Mansfield Lahm Airport",
+      "alt": "Orion Spacecraft Arrives in Ohio Aboard the Super Guppy at Mansfield Lahm Airport",
+      "creator": "NASA GRC",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_url": "https://images.nasa.gov/details/GRC-2019-C-12257",
+      "accessed_at": "2026-11-06",
+      "uri": "media/53c1f82dff48f3cff06a18bf7457a239a5ef1accd091b51e607d6b294fad28b0.jpg",
+      "sha256": "53c1f82dff48f3cff06a18bf7457a239a5ef1accd091b51e607d6b294fad28b0",
+      "width": 640,
+      "height": 427
+    },
+    "1a7f22057b5a4150d1972c20": {
+      "title": "Orion Spacecraft Adapter (SA) Panels",
+      "alt": "Pictured inside the Neil Armstrong Operations and Checkout Building high bay at NASA’s Kennedy Space Center in Florida on Aug. 6, 2020, are the three Spacecraft Adapter Jettison fairing panels that will protect Orion's service module from the environ",
+      "creator": "NASA KSC",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_url": "https://images.nasa.gov/details/KSC-20200806-PH-KLS01_0022",
+      "accessed_at": "2026-11-06",
+      "uri": "media/9ad6d26f77a66a5ef3af68031b6bd8b751c276556422e9e97219e4dcbf795cbb.jpg",
+      "sha256": "9ad6d26f77a66a5ef3af68031b6bd8b751c276556422e9e97219e4dcbf795cbb",
+      "width": 640,
+      "height": 426
+    },
+    "31527e32044f3c38034fbe62": {
+      "title": "Orion Spacecraft Adapter (SA) Panels",
+      "alt": "Pictured inside the Neil Armstrong Operations and Checkout Building high bay at NASA’s Kennedy Space Center in Florida on Aug. 6, 2020, are the three Spacecraft Adapter Jettison fairing panels that will protect Orion's service module from the environ",
+      "creator": "NASA KSC",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_url": "https://images.nasa.gov/details/KSC-20200806-PH-KLS01_0025",
+      "accessed_at": "2026-11-06",
+      "uri": "media/c799b29b4f652f9a99ef4dcc503392748edab12679fcea553c2a03bb3fc0be68.jpg",
+      "sha256": "c799b29b4f652f9a99ef4dcc503392748edab12679fcea553c2a03bb3fc0be68",
+      "width": 640,
+      "height": 426
+    },
+    "97a9e18b1e57c33ae935201b": {
+      "title": "Orion Spacecraft Adapter (SA) Cone Install",
+      "alt": "The Artemis I Orion spacecraft is lowered by crane into the FAST cell after installation of the spacecraft adapter (SA) cone was completed inside the Neil Armstrong Operations and Checkout Building on Aug. 20, 2020. This is one of the final major har",
+      "creator": "NASA KSC",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_url": "https://images.nasa.gov/details/KSC-20200820-PH-FMX01_0153",
+      "accessed_at": "2026-11-06",
+      "uri": "media/ea2892f4bdc9c28461bcdb7e9e4933bc3bcfc4843ab7389306453c581b108fd7.jpg",
+      "sha256": "ea2892f4bdc9c28461bcdb7e9e4933bc3bcfc4843ab7389306453c581b108fd7",
+      "width": 640,
+      "height": 426
+    },
+    "b805af54d2e9968fb9814903": {
+      "title": "Orion Spacecraft Adapter (SA) Cone Install",
+      "alt": "ASRC technician Chris Slack assists with the installation of the spacecraft adapter (SA) cone to the Artemis I Orion spacecraft inside the Neil Armstrong Operations and Checkout Building at NASA’s Kennedy Space Center on Aug. 10, 2020. This is one of",
+      "creator": "NASA KSC",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_url": "https://images.nasa.gov/details/KSC-20200810-PH-FMX01_0047",
+      "accessed_at": "2026-11-06",
+      "uri": "media/d39458af5765cebe0500ba38ef349d42884c9ca8d0f6b7f5be45fee86afff139.jpg",
+      "sha256": "d39458af5765cebe0500ba38ef349d42884c9ca8d0f6b7f5be45fee86afff139",
+      "width": 640,
+      "height": 426
+    },
+    "bcef61127213f65dd5d0b6e3": {
+      "title": "Orion Spacecraft Adapter (SA) Panels",
+      "alt": "Pictured inside the Neil Armstrong Operations and Checkout Building high bay at NASA’s Kennedy Space Center in Florida on Aug. 6, 2020, are the three Spacecraft Adapter Jettison fairing panels that will protect Orion's service module from the environ",
+      "creator": "NASA KSC",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_url": "https://images.nasa.gov/details/KSC-20200806-PH-KLS01_0030",
+      "accessed_at": "2026-11-06",
+      "uri": "media/abfcbbbe276b1c1d5e1bb8a4689dffd3f3873659a62644907fe6b8e8c682bf96.jpg",
+      "sha256": "abfcbbbe276b1c1d5e1bb8a4689dffd3f3873659a62644907fe6b8e8c682bf96",
+      "width": 640,
+      "height": 426
+    },
+    "fba7d71ec440a112584cbac7": {
+      "title": "Orion Spacecraft Adapter (SA) Cone Install",
+      "alt": "Technicians at NASA’s Kennedy Space Center in Florida work to safely return the Artemis I Orion spacecraft to the FAST cell after completing the installation of the spacecraft adapter (SA) cone inside the Neil Armstrong Operations and Checkout Buildi",
+      "creator": "NASA KSC",
+      "license": "NASA media usage guidelines",
+      "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+      "source_url": "https://images.nasa.gov/details/KSC-20200820-PH-FMX01_0031",
+      "accessed_at": "2026-11-06",
+      "uri": "media/4d19609957dab66459cf718d683facda654b82e378332e0e14fb3a6315d5a825.jpg",
+      "sha256": "4d19609957dab66459cf718d683facda654b82e378332e0e14fb3a6315d5a825",
+      "width": 640,
+      "height": 426
+    }
+  }
+}
