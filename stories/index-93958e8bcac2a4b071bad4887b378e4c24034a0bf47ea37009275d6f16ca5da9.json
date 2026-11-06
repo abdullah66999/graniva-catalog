@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "stories": [
+    {
+      "id": "moon-pilot",
+      "revision": 4,
+      "title": "Почему Луна показывает нам почти одну и ту же сторону?",
+      "topic": "space",
+      "detail_path": "stories/moon-pilot-505e8ead879b5980205acaaaa11e0738970a58bb1f26a1c0df0a867aaf0899c5.json",
+      "sha256": "505e8ead879b5980205acaaaa11e0738970a58bb1f26a1c0df0a867aaf0899c5"
+    },
+    {
+      "id": "ocean-tides",
+      "revision": 4,
+      "title": "Почему море дважды поднимается за лунные сутки?",
+      "topic": "ocean",
+      "detail_path": "stories/ocean-tides-ce19f3e0a99932c6151be264a7a579120f283a2703d00697990b36168f51b71a.json",
+      "sha256": "ce19f3e0a99932c6151be264a7a579120f283a2703d00697990b36168f51b71a"
+    },
+    {
+      "id": "lunar-eclipse",
+      "revision": 6,
+      "title": "Почему Луна краснеет во время затмения?",
+      "topic": "space",
+      "detail_path": "stories/lunar-eclipse-502c406bec8d6be2600b6c5843afc080ee9f8432933204533949cc0544eadf5f.json",
+      "sha256": "502c406bec8d6be2600b6c5843afc080ee9f8432933204533949cc0544eadf5f"
+    },
+    {
+      "id": "auto-8a3d726d8aa1305666",
+      "revision": 5,
+      "title": "Как пятна помогают маскировке стеклянных лягушек",
+      "topic": "nature",
+      "detail_path": "stories/auto-8a3d726d8aa1305666-9a5a0a5ef70d47dc9d34a08adc38b4025560ef8f6efb1ed9ca4dc7230ee98d68.json",
+      "sha256": "9a5a0a5ef70d47dc9d34a08adc38b4025560ef8f6efb1ed9ca4dc7230ee98d68"
+    },
+    {
+      "id": "auto-b3955db4dcd9334123",
+      "revision": 2,
+      "title": "Планы NASA по ускорению программы «Артемида»",
+      "topic": "space",
+      "detail_path": "stories/auto-b3955db4dcd9334123-dfa264975d1d031d246729e9b44b19894a4fb3d2ee766edc9c3e3c8b90fbe56b.json",
+      "sha256": "dfa264975d1d031d246729e9b44b19894a4fb3d2ee766edc9c3e3c8b90fbe56b"
+    },
+    {
+      "id": "auto-d2a51ad551b4f8a48f",
+      "revision": 4,
+      "title": "Миграция и орбиты планет в резонансных системах",
+      "topic": "space",
+      "detail_path": "stories/auto-d2a51ad551b4f8a48f-fa141d9ef1e7142f5edeccc3b5167b841fb0f8e44deade852f0916da71c46449.json",
+      "sha256": "fa141d9ef1e7142f5edeccc3b5167b841fb0f8e44deade852f0916da71c46449"
+    },
+    {
+      "id": "auto-21f9deecdb4cb1fbcb",
+      "revision": 2,
+      "title": "Спиральная структура в протопланетном диске",
+      "topic": "space",
+      "detail_path": "stories/auto-21f9deecdb4cb1fbcb-98a3d34d08bc24b1b1db02428ae733bf65e1f84d28902952ba3e03b339ca4787.json",
+      "sha256": "98a3d34d08bc24b1b1db02428ae733bf65e1f84d28902952ba3e03b339ca4787"
+    }
+  ]
+}
