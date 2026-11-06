@@ -3,6 +3,7 @@ name: FacetLine hourly autopilot
 on:
   schedule:
     - cron: "7 * * * *"
+    - cron: "37 * * * *"
   workflow_dispatch:
     inputs:
       diagnostics_only:
