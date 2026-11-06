@@ -57,6 +57,7 @@ jobs:
           SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_FREE_TIER_CONFIRMED: "true"
         run: python .github/scripts/key_diagnostics.py
 
       - name: Restore private worker workspace
@@ -91,6 +92,7 @@ jobs:
           SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
           OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_FREE_TIER_CONFIRMED: "true"
           WIKIMEDIA_CONTACT: ${{ secrets.WIKIMEDIA_CONTACT }}
           GITHUB_TOKEN: ${{ github.token }}
         run: python worker-runtime/daily_worker.py tick
