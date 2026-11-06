@@ -1,10 +1,12 @@
 {
   "schema_version": 1,
-  "catalog_version": "2026-11-06.9",
-  "generated_at": "2026-11-06T11:22:28+00:00",
+  "catalog_version": "2026-11-06.11",
+  "generated_at": "2026-11-06T11:53:13+00:00",
   "min_supported_app_version": 6,
-  "index_path": "stories/index-0827842cb32dbe7e1929a6c204411fddbddf937eca9dcb4e64ab31c533193b84.json",
-  "checksum_sha256": "0827842cb32dbe7e1929a6c204411fddbddf937eca9dcb4e64ab31c533193b84",
-  "item_count": 7,
-  "withdrawn_story_ids": []
+  "index_path": "stories/index-3114352470b8ce175fa1a74c54631839456fd0b8a2ab4717d968934bdcb5c2bd.json",
+  "checksum_sha256": "3114352470b8ce175fa1a74c54631839456fd0b8a2ab4717d968934bdcb5c2bd",
+  "item_count": 6,
+  "withdrawn_story_ids": [
+    "auto-96100dbd58ea281057"
+  ]
 }
