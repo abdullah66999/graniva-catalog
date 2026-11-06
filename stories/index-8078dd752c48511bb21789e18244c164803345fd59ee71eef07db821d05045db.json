@@ -1,0 +1,38 @@
+{
+  "schema_version": 1,
+  "stories": [
+    {
+      "id": "moon-pilot",
+      "revision": 1,
+      "title": "Почему Луна показывает нам почти одну и ту же сторону?",
+      "topic": "space",
+      "detail_path": "stories/moon-pilot-b180a8cd0cd2a5c0eac71781de1e8c30014ce13b094880e0f2f088a553dc0275.json",
+      "sha256": "b180a8cd0cd2a5c0eac71781de1e8c30014ce13b094880e0f2f088a553dc0275"
+    },
+    {
+      "id": "ocean-tides",
+      "revision": 1,
+      "title": "Почему море дважды поднимается за лунные сутки?",
+      "topic": "ocean",
+      "detail_path": "stories/ocean-tides-453bb3badc21f31bac68d59b6fbcf260943e08d81845ce3b003676260472ae6a.json",
+      "sha256": "453bb3badc21f31bac68d59b6fbcf260943e08d81845ce3b003676260472ae6a"
+    },
+    {
+      "id": "lunar-eclipse",
+      "revision": 1,
+      "title": "Почему Луна краснеет во время затмения?",
+      "topic": "space",
+      "detail_path": "stories/lunar-eclipse-f5086a927570bf668155c6c4e03c1f0247514ca31a856035cf31b322746e0be2.json",
+      "sha256": "f5086a927570bf668155c6c4e03c1f0247514ca31a856035cf31b322746e0be2"
+    },
+    {
+      "id": "auto-8a3d726d8aa1305666",
+      "revision": 2,
+      "title": "Как пятна помогают маскировке стеклянных лягушек",
+      "topic": "nature",
+      "detail_path": "stories/auto-8a3d726d8aa1305666-61a647b70fdbbbd257009ea1139537c510b444f99c2a72ed773089a29c6bf9e8.json",
+      "sha256": "61a647b70fdbbbd257009ea1139537c510b444f99c2a72ed773089a29c6bf9e8"
+    }
+  ]
+}
+
