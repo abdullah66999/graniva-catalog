@@ -69,6 +69,17 @@ jobs:
           mkdir -p worker-runtime
           python .github/scripts/cloud_workspace.py download --root worker-runtime
 
+      - name: Seed worker with the current public catalog
+        if: ${{ steps.preflight.outputs.ready == 'true' && !(github.event_name == 'workflow_dispatch' && inputs.diagnostics_only) }}
+        run: |
+          mkdir -p worker-runtime/dist/public
+          for path in manifest.json stories media challenges; do
+            if [[ -e "$path" ]]; then
+              cp -a "$path" worker-runtime/dist/public/
+            fi
+          done
+          test -s worker-runtime/dist/public/manifest.json
+
       - name: Install worker dependencies
         if: steps.workspace.outcome == 'success'
         run: python -m pip install -r worker-runtime/requirements.txt
@@ -90,4 +101,3 @@ jobs:
           SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
           SUPABASE_SECRET_KEY: ${{ secrets.SUPABASE_SECRET_KEY }}
         run: python .github/scripts/cloud_workspace.py upload --root worker-runtime
-
